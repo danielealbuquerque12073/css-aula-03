@@ -1,0 +1,12 @@
+h1 { 
+    background-color: green;
+    color: white;
+ }
+  body { 
+  	background-color: lightblue; 
+    background-image:  url(https://diegomariano.com/wp-content/uploads/2020/08/logo-2582747_640-e1597771254582.png);
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    background-attachment: fixed;
+
+  }
